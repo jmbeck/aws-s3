@@ -9,7 +9,7 @@
   "scripts": {
     "build": "node ./scripts/build.js",
     "clean": "rm -rf lib",
-    "prepublish": "npm run clean && npm run build",
+    "prepublish": "npm run clean && npm run build"
   },
    "files": [
     "cjs",
